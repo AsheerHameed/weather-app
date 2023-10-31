@@ -1,0 +1,26 @@
+.right_container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.right_container_navbar{
+    flex: 2;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.right_container_data{
+    flex: 12;
+}
+
+.nav_bar_tabs{
+    display: flex;
+    margin-left: 30px;
+
+}
+.nav_bar_metric{
+    display: flex;
+    margin-left: 30px;
+    justify-content: center;
+}
